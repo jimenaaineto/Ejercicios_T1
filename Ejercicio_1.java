@@ -5,7 +5,7 @@ segundos que tiene un minuto. Emplear las variables que ocupen el mínimo espaci
  en otra variable. Realizar preferiblemente mediante una función que reciba como parámetros el 
  número de años, meses y días y devuelva el número de segundos de los días, */
 
- public class Ejercicio1{
+ public class Ejercicio_1{
     public static void main(String[]args){
       
          int year, day, hour, minutes;
