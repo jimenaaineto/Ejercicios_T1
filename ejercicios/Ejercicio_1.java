@@ -1,3 +1,4 @@
+package ejercicios;
 /*Escribir un programa que defina variables que representen el número de días de un año, 
 el número de horas que tiene un día, el número de minutos que tiene una hora y el número de 
 segundos que tiene un minuto. Emplear las variables que ocupen el mínimo espacio de memoria posible.
@@ -9,7 +10,7 @@ segundos que tiene un minuto. Emplear las variables que ocupen el mínimo espaci
     public static void main(String[]args){
       
          int year, day, hour, minutes;
-         int secondsFinal=seconds(1, 1, 60);
+         int secondsFinal=seconds(1, 0, 0);
          System.out.println("the total seconds are: "+secondsFinal);
 
      }
