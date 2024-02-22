@@ -1,4 +1,4 @@
-package ejercicios;
+
 /*Escribir un programa que defina variables que representen el número de días de un año, 
 el número de horas que tiene un día, el número de minutos que tiene una hora y el número de 
 segundos que tiene un minuto. Emplear las variables que ocupen el mínimo espacio de memoria posible.
