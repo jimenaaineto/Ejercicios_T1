@@ -1,5 +1,8 @@
 package ejercicios;
-
+/*Escribe un programa que muestre por pantalla la lista de los N
+primeros números primos. Realiza una función que reciba N, devuelve un
+array conteniendo los N primeros números primos y posteriormente
+imprima el array en el main */
 import java.util.Scanner;;
 
 public class Ejercicio_6 {
