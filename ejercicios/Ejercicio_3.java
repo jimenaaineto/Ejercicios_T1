@@ -1,4 +1,11 @@
 package ejercicios;
+/*Calcular la suma de todos los múltiplos de 5 comprendidos
+entre 1 y 100. Calcular además cuantos hay (ver operaciones sobre arrays)
+y visualizar cada uno de ellos. Utilizar una función que reciba el número de
+múltiplos de 5 y devuelva un array conteniedo todos los múltiplos de 5 desde
+el valor del parámetro begin hasta el valor del parámetro end. Realizar otra
+función que dado un array como parámetro, lo recorra de inicio a fin y
+devuelva la suma de todos sus valores */
 
 public class Ejercicio_3 {
     public static void main(String[] args) {
