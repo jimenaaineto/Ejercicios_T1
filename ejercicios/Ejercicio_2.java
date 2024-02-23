@@ -1,3 +1,5 @@
+/*Escribir un programa que muestre por consola los mayores
+números enteros que se pueden representar mediante un char, short e int. */
 package ejercicios;
 
 public class Ejercicio_2 {
@@ -12,5 +14,3 @@ public class Ejercicio_2 {
     }
 }
     
-    
-}
