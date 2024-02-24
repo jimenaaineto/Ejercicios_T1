@@ -1,6 +1,6 @@
 package ejercicios;
 
-import java.util.Scanner;
+import java.util.*;
 
 public class Ejercicio_10 {
     public static void main(String[] args) {
@@ -13,22 +13,20 @@ public class Ejercicio_10 {
     }
     
     public static int[][]rellenarMatriz(int N){
+        Random rand = new Random();
         int [][]matriz=new int[N][N];
         for (int i=0;i<N;i++){
             for(int j=0;j<N;j++){
-            System.out.println("introduzca un numero para la posicion: "+i+""+j);
-            Scanner darValores=new Scanner(System.in);
-            matriz[i][j]=darValores.nextInt();
+            matriz[i][j]=rand.nextInt() % 100;
             }
-        
         }   
         for (int i=0;i<N;i++){
             for(int j=0;j<N;j++){
                 System.out.println(matriz[i][j]);
             }
-            System.out.println(" ");
+            System.out.println("\n");
+            
         }
-
         return matriz;
     }
 }
