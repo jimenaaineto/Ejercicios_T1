@@ -12,5 +12,6 @@ public class Ejercicio_2 {
         System.out.println("El mayor número entero representable en un short es: " + maxShort);
         System.out.println("El mayor número entero representable en un int es: " + maxInt);
     }
+    
 }
     
