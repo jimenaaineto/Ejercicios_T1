@@ -3,6 +3,13 @@
 Lo que eran los fallos estan comentados en el de arriba para que se vea */
 package ejercicios;
 import java.util.Scanner;
+/*Empleando un array, escribir un programa que pida al usuario
+números enteros hasta que se introduzca el número 0. A continuación,
+calcular la media, el mínimo y el máximo de los datos introducidos. Utilice
+funciones independientes para: a) recibir N números enteros por teclado
+hasta que el usuario introduzca un 0; b) Calcule la media de los elementos de
+un array; c) calcule el mínimo de los elementos de un array; y d) Calcule el
+máximo de los elementos de un array */
 
 public class Ejercicio_8 {
         public static void main(String[] args) {
